@@ -8,6 +8,7 @@ loguru = "==0.7.2"
 
 [dev-packages]
 pytest = "==8.3.2"
+pre-commit = "==3.7.0"
 
 [requires]
 python_version = "3.11"

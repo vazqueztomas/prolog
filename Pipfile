@@ -12,3 +12,6 @@ pre-commit = "==3.7.0"
 
 [requires]
 python_version = "3.11"
+
+[scripts]
+format = "pre-commit run --all-files"
